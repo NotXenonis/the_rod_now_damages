@@ -1,7 +1,7 @@
 {
-  "id": "com.example.my_mod",
-  "name": "My Mod",
-  "version": "@PROJECT_VERSION@",
-  "author": "You",
-  "description": "An example Dusklight mod"
+  "id": "com.Xen.AllMightyRod",
+  "name": "Rod Damage",
+  "version": "0.0.1",
+  "author": "Xen",
+  "description": "A simple mod that makes the Rod's ball deal damage."
 }
